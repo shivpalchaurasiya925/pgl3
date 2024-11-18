@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    font-family: fantasy;
+}
+h2{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    text-decoration: overline;
+    
+}
+p {
+
+    color: pink;
+    background-color: green;
+   letter-spacing: 1px;
+   font-size: 20px;
+}
+h3{
+    color: pink;
+    background-color: darkmagenta;
+    text-decoration:red line-through;
+}
